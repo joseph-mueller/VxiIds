@@ -1,0 +1,100 @@
+Acqiris	AQ
+Applicos BV	AC
+Advantest Corporation	AV
+Aeroflex Laboratories	AF
+Agilent Technologies	AG
+AIM GmbH 	AI
+AMETRIX Instruments	AX
+AMP Incorporated	AM
+Analogic, Corp.	AN
+Ando Electric Company Limited	AD
+Anritsu Company	AU
+Astronics Test Systems Inc.	AT
+AOIP Instrumentation	AO
+ASCOR Incorporated	AS
+Audio Precision, Inc	AP
+B&B Technologies	BB
+BAE Systems	BA
+Bruel & Kjaer	BK
+Bustec Production Ltd.	BU
+CAL-AV Labs, Inc.	CA
+Cambridge Instruments	CI
+C&H Technologies, Inc.	CH
+Chyng Hong Electronic Co., Ltd	CE
+CMC Labs	CM
+Compressor Controls Corporation	CC
+CYTEC Corporation	CY
+Directed Perceptions Inc.	DP
+Druck Ltd.	DK
+DSP Technology Inc.	DS
+EA Elektro-Automatik GmbH	EA
+EIP Microwave, Inc.	EI
+EXFO Inc.	EX
+Fluke Company Inc.	FL
+fos4X GmbH	FO
+GenRad	GR
+Giga-tronics, Inc.	GT
+gnubi communications, Inc.	GN
+Hewlett-Packard Company	HP
+Hoecherl & Hackl GmbH	HH
+Holding “Informtest”	UN
+Intepro Systems	IS
+IBEKO POWER AB	DV
+IFR	IF
+Instrumental Systems Corporation	IT
+Instrumentation Engineering, Inc.	IE
+Integrated Control Systems	IC
+Keithley Instruments	KE
+Kepco, Inc.	KP
+Keysight Technologies	KT
+Kikusui Inc.	KI
+LeCroy	LC
+LitePoint Corporation	LP
+MAC Panel Company	MP
+ManTech Test Systems	MT
+Marconi Instruments	MI
+Microscan	MS
+MIT Lincoln Laboratory	ML
+National Instruments Corp.	NI
+NEUTRIK AG	NT
+Newland Design + Associates, Inc.	ND
+NH Research	NH
+North Atlantic Instruments	NA
+Pacific MindWorks, Inc.	PW
+PesMatrix Inc.	PE
+Phase Metrics	PM
+Pickering Interfaces	PI
+Picotest	PC
+Power-Tek Inc.	PT
+Racal Instruments, Inc.	RI
+Raditeq	RQ
+Radisys Corp.	RA
+Rohde & Schwarz GmbH	RS
+Schlumberger Technologies	SL
+Scicom	SC
+Scientific Research Corporation	SR
+Serendipity Systems, Inc.	AU
+SignalCraft Technologies Inc.	SI
+Sony/Tektronix Corporation	ST
+Spectrum Signal Processing, Inc.	SS
+Spitzenberger & Spies GmbH	SP
+Talon Instruments	TA
+Tektronix, Inc.	TK
+Teradyne	TE
+Test & Measurement Systems Inc.	TS
+ThinkRF Corporation	RF
+Thurlby Thandar Instruments Limited Transmagnetics, Inc.	AT
+Transmagnetics, Inc.	TM
+TSE Plazotta	TP
+TTI Testron, Inc.	TT
+Universal Switching Corporation	US
+Vencon Technologies Inc.	VE
+Versatile Power	XR
+Virginia Panel, Corp.	VP
+VXI Technology, Inc.	VT
+VXIbus Associates, Inc.	VA
+Wavetek Corp.	WT
+Wandel & Goltermann	WG
+Welzek	WZ
+Yokogawa Electric Corporation	YK
+ZTEC	ZT
